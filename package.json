@@ -1,0 +1,12 @@
+{
+    "name": "Waterpi",
+    "description": "Miniwasserkraftwerk, NodeRed, Modbus etc.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_waterpi.json",
+            "credentialsFile": "flows_waterpi_cred.json"
+        }
+    }
+}
